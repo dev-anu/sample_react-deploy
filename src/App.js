@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Anurag Tripathi
+          Anurag Tripathi, Deployed
         </a>
       </header>
     </div>
