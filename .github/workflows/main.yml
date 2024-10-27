@@ -30,4 +30,4 @@ jobs:
           aws-region: ${{secrets.region}}
 
       - name: Deploy to AWS S3
-        run: aws s3 sync build s3://sampleanurag --delete
+        run: aws s3 sync build s3://sampledeployanurag --delete
